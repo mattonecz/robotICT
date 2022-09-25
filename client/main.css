@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.feedback {
+  color: red;
+}
+
+input {
+  border: none;
+  -webkit-appearance: none;
+  -ms-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: #f2f2f2;
+  padding: 12px;
+  border-radius: 3px;
+  width: 100px;
+  font-size: 14px;
+}
